@@ -1,5 +1,5 @@
-# Oxfore-Dictionary
-A normal Oxfore dictionary in python.
+# Oxford-Dictionary
+A normal Oxford dictionary in python.
 
 **Installation**
 ```
