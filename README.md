@@ -4,5 +4,5 @@ A normal Oxford dictionary in python.
 **Installation**
 ```
 pip install requests
-pip install bs4
+pip install beautifulsoup4
 ```
