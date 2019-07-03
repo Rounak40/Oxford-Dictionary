@@ -5,4 +5,5 @@ A normal Oxford dictionary in python.
 ```
 pip install requests
 pip install beautifulsoup4
+pip install lxml
 ```
