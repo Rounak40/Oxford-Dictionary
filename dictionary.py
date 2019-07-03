@@ -1,4 +1,4 @@
-##this is a latest oxfore dictionary made in python by Rounak.
+##this is a latest Oxford dictionary made in python by Rounak.
 
 import requests
 from bs4 import BeautifulSoup as bs
